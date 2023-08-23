@@ -1,7 +1,4 @@
 
-package calmid;
-
-
 
 import java.awt.*;
 import javax.swing.*;
