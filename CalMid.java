@@ -1,12 +1,12 @@
-
-
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 import java.util.*;
 
 
-
+/*
+JFrame Class
+*/
 class MyFrame extends JFrame implements ActionListener{
     
     //-------Declaring Checkboxes,Labels,textfields,buttons etc--------
