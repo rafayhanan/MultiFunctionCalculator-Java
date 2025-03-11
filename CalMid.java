@@ -1583,7 +1583,7 @@ public class CalMid {
     {   
         MyFrame frame = new MyFrame();   //Creating frame using MyFrame class
         
-        final int width = 600, height =600;
+        final int width = 610, height =610;
         frame.setBounds(100,100,width,height);           // frame size
         frame.setTitle("Calculator");    //Title
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);   //exit on cross
